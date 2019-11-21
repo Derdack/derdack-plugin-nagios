@@ -8,7 +8,7 @@ Enterprise Alert is an enterprise-class alerting solution for on-premises and pr
 
 Enterprise Alert leads to an up to 10x faster incident response, 60% reduces downtime of critical systems and 95% less false alerts.
 
-![Enterprise Alert](Infographic.png)
+![Enterprise Alert](Infographic.jpg)
 
 ## Setup
 
